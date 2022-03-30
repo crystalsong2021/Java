@@ -4,6 +4,8 @@
 public class Hello {
 
   public static void main (String[] args) {
-    System.out.println("-------------Hello!---------------");
+    int myAge = 30;
+    int herAge = myAge;
+    System.out.println(myAge);
   }
 }
