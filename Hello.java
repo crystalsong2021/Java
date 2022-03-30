@@ -20,9 +20,10 @@ public class Hello {
     // Point point2 = point1;
     // point1.x = 2;
     //reference type are copy by the reference, primitive type are copy by the value
-    String message = "Hello World" + "!";
-    message.endsWith("!");
-    System.out.println(message.length() < 14);
+    // c:\Windows\...
+
+    String message = "c:\tWindows\\...";
+    System.out.println( message);
 
 
 
