@@ -2,28 +2,27 @@
  * Hello
  */
 
+import java.util.Arrays;
+
 public class Hello {
 
 
   public static void main (String[] args) {
-    // int myAge = 30;
-    // int herAge = myAge;
-    // long viewsCount = 3_223_333_334L;
-    // float price = 10.09F;
-    // char letter = 'A';
-    // boolean isEligible = true;
 
-    // Date now = new Date();
-    // now.getTime();
-    // System.out.println(now);
-    // Point point1 = new Point( x : 1, y : 1); //reference variable
-    // Point point2 = point1;
-    // point1.x = 2;
-    //reference type are copy by the reference, primitive type are copy by the value
-    // c:\Windows\...
 
-    String message = "c:\tWindows\\...";
-    System.out.println( message);
+    // int[] numbers = { 2, 3, 5, 1, 4};
+    // Arrays.sort(numbers);
+    // System.out.println(Arrays.toString(numbers));
+    // // Arrays.toString(numbers);
+    // System.out.println(numbers.length); //printing the memory location
+
+    // int [][] numbers = {{4, 3, 2}, {4, 1, 5}};
+    // Arrays.sort(numbers[0]);
+    // System.out.println(Arrays.deepToString(numbers));
+
+    // final float PI = 3.14F;
+    // System.out.println(PI);
+
 
 
 
