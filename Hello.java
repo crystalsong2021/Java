@@ -23,6 +23,16 @@ public class Hello {
     // final float PI = 3.14F;
     // System.out.println(PI);
 
+    // double result = (double) 10 / 3;
+    // System.out.println(result);
+
+    int x= 1;
+    int y = x++;
+    int z = ++y;
+    System.out.println(x);
+    System.out.println(y);
+    System.out.println(z);
+
 
 
 
